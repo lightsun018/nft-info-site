@@ -248,6 +248,12 @@ html{
     .nav .name {
       font-size: 50px;
     }
+    .card-header {
+      text-align: center;
+    }
+    .card-header h1{
+      font-size: 23px;
+    }
   }
 .arrowcenter{
     position: absolute;
