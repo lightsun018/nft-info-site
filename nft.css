@@ -250,6 +250,7 @@ html{
     }
     .card .card-header h1 {
       font-size: 23px;
+      text-align: center;
     }
     .card .card-header p {
       font-size: 18px;
