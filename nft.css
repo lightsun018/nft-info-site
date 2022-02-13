@@ -569,3 +569,9 @@ img{
 footer{
     margin-top: 100px;
 }
+.footcolumn{
+  text-align: center;
+}
+.footcolumn h1{
+  font-size: 50px;
+}
